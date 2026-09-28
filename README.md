@@ -39,7 +39,7 @@ The date columns were converted to datetime to make the time analysis easier.
 
 I also created new features such as month, day, hour, day type, and trip duration.
 
-## Key Findings
+## Key 
 
 The analysis showed that bike demand changed depending on the time of year and time of day.
 
@@ -55,7 +55,7 @@ Bike usage varied across different times, stations, user types, and weather cond
 
 These findings can help better understand bike usage and can support better bike availability and station planning.
 
-## Further Research
+## Research
 
 For future analysis, I would explore user behavior, popular trip routes, station availability, and more detailed weather conditions.
 
