@@ -4,7 +4,7 @@ Nice Ride 2017 Bike Analysis
 
 This project will analyze trip, station, and weather data to identify the periods and stations with the highest demand, compare demand with station capacity, and examine how weather affects bike usage
 
-## Executive Summary
+## Summary
 
 This project analyzes Nice Ride Minnesota bike trips from 2017. I used three datasets: bike trip data, station data, and weather data.
 
