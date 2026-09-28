@@ -2,7 +2,7 @@
 Nice Ride 2017 Bike Analysis
 ## Problem Statement
 
-In 2017, Nice Ride Minnesota recorded 460,718 bike trips across 202 stations. This project explores how bike usage changed based on time, station, user type, trip duration, and weather.
+This project will analyze trip, station, and weather data to identify the periods and stations with the highest demand, compare demand with station capacity, and examine how weather affects bike usage
 
 ## Executive Summary
 
